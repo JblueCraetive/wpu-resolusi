@@ -1,4 +1,7 @@
 WPU Resolusi
 - Konsisten untuk membuat konten 2x sebulan
 - Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
+- Membuat forum diskusi.
+- Membuat web programming .
+- Membuat Blog.
+- Membuat Online shop.
